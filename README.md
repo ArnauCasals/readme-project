@@ -15,3 +15,8 @@ Aquesta línia s'ha afegit des del meu ordinador.
 Aquesta línia s'ha afegit des de GitHub.
 
 ## Instal·lació
+
+Aquesta frase és de la branca 1. 
+Aquesta frase és de la branca 2.
+
+Conflicte resollé manualmente entre dues branques.
