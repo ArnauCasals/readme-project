@@ -9,3 +9,5 @@ Practicar Git i GitHub creant un README ben estructurat i aplicant bones pràcti
 - Markdown per a la documentació
 - Terminal Bash per executar comandes
 - Java per al desenvolupament del projecte
+
+Aquesta línia s'ha afegit des del meu ordinador.
